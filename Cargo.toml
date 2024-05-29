@@ -1,0 +1,10 @@
+[package]
+name = "numberswap_srikanth_kotturi"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[test]]
+name = "swap_numbers_tests"
+path = "tests/swap_numbers_tests.rs"
